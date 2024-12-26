@@ -1,0 +1,8 @@
+{
+  "main_menu": {
+    "bottom_right": [{"color":"#30d5c8","text":"§lAstralPack §fBy LogikaCode","clickEvent":{"action":"open_url","value":"https://modrinth.com/modpack/astralpack"}}]
+  },
+  "pause_menu": {
+    "bottom_right": [{"text":"§f§lAstralPack §fBy LogikaCode"}]
+  }
+}
