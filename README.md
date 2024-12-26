@@ -1,6 +1,5 @@
 # AstralPack
 This build is for version 1.21 and up. It focuses on boosting performance and improving visuals without major changes. ✨
-
 ##
 ![Village](https://cdn.modrinth.com/data/cached_images/2534d4490c4ca26b136cd27aba578ef9424622a4.png)
 
